@@ -6,9 +6,11 @@ Tiny Dungeon is a game I am working on in my free time. The game is very _Work I
 ## screenshots 
 
 ![PlayerAttackAnimation](./resources/PlayerAttackAnimation.gif)
+
 _Basic attack animation_
 
 ![inventoryManagement](./resources/inventoryManagement.gif)
+
 _Inventory management_
 
 ## Report bugs
